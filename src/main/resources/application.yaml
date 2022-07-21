@@ -1,0 +1,10 @@
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+springfox:
+  documentation:
+    swagger-ui:
+      # 默认是True，false则swagger不生效
+      enabled: true
+      base-url: /documentation
