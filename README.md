@@ -6,7 +6,7 @@ Spring Boot： 2.7.1
 
 JDK: 17
 
-Swgger: 3
+Swagger: 3
 
 # 官网
 
